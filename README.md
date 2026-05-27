@@ -1,4 +1,4 @@
-# Implementação e Análise de Desempenho da Simulação de N-Corpos em GPU utilizando CUDA
+# Implementação e Análise de Desempenho da Simulação de N-Corpos em GPU Utilizando CUDA
 
 ## Integrantes
 - Bruno Alves Mendonça de Abreu Filho

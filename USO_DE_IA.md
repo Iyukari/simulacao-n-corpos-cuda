@@ -1,4 +1,4 @@
-# UDe acordo com Política de uso de IA generativa
+# De acordo com Política de uso de IA generativa
 
 ## Ferramentas usadas
 Durante o desenvolvimento deste trabalho foram utilizadas ferramentas de IA generativa como apoio ao estudo, escrita e desenvolvimento da aplicação, taiz ferramentas foram
